@@ -1,0 +1,25 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "Chai's Fogless",
+      "description": "Removes all FOG",
+      "uuid": "85b4a810-3a83-4ddc-b977-7c6bf4e979f9",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 21, 31]
+    },
+    "modules": [
+      {
+        "type": "resources",
+        "uuid": "f712d0f8-21d5-4a3e-8c04-3d86f107f824",
+        "version": [1, 0, 0]
+      }
+    ],
+    "metadata": {
+      "authors": [ "undefined" ],
+      "generated_with": {
+        "blockception-minecraft-bedrock": [
+          "8.0.6"
+        ]
+      }
+    }
+  }
