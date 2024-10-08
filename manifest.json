@@ -1,10 +1,10 @@
 {
     "format_version": 2,
     "header": {
-      "name": "Chai's Fogless",
-      "description": "Removes all FOG",
+      "name": "Chai's Fogless (WIP)",
+      "description": "Removes all FOG, YMMY.",
       "uuid": "85b4a810-3a83-4ddc-b977-7c6bf4e979f9",
-      "version": [1, 1, 1],
+      "version": [2, 0, 0],
       "min_engine_version": [1, 21, 31]
     },
     "modules": [
